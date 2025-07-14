@@ -1,6 +1,6 @@
 ﻿# A-Mart
 
-A-Mart is an E-Commerce API built with ASP.NET Core 8.0. It provides endpoints for managing products, categories, carts, orders, and users, with secure JWT authentication.
+A-Mart is an E-Commerce API built with ASP.NET. It provides endpoints for managing products, categories, carts, orders, and users, with secure JWT authentication.
 
 ## Features
 - User registration and login (JWT authentication)
