@@ -21,5 +21,3 @@ See [`API_DOCUMENTATION.md`](./API_DOCUMENTATION.md) for all endpoints, request/
 http://acomerce1234.runasp.net/api
 ```
 
-## Support
-For issues or questions, please contact the backend team or open an issue on the repository.
