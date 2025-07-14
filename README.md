@@ -9,7 +9,7 @@ A-Mart is an E-Commerce API built with ASP.NET Core 8.0. It provides endpoints f
 - Admin endpoints for advanced management
 - RESTful API with JSON responses
 
-5. **Default Admin Account:**
+##. **Default Admin Account:**
    - Email: `admin@ecommerce.com`
    - Password: `Admin123!`
 
